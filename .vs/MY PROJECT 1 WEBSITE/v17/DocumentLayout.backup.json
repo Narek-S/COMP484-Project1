@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Narek\\Desktop\\MY PROJECT 1 WEBSITE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Narek\\Desktop\\MY PROJECT 1 WEBSITE\\Movement.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Movement.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Narek\\Desktop\\MY PROJECT 1 WEBSITE\\Care.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Care.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Narek\\Desktop\\MY PROJECT 1 WEBSITE\\History.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:History.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Narek\\Desktop\\MY PROJECT 1 WEBSITE\\Wristwatch Types.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Wristwatch Types.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Narek\\Desktop\\MY PROJECT 1 WEBSITE\\WebStyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebStyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebStyle.css",
+              "DocumentMoniker": "C:\\Users\\Narek\\Desktop\\MY PROJECT 1 WEBSITE\\WebStyle.css",
+              "RelativeDocumentMoniker": "WebStyle.css",
+              "ToolTip": "C:\\Users\\Narek\\Desktop\\MY PROJECT 1 WEBSITE\\WebStyle.css",
+              "RelativeToolTip": "WebStyle.css",
+              "ViewState": "AgIAAG0AAADAV2ZmZmYUwIEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-16T05:44:26.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Care.html",
+              "DocumentMoniker": "C:\\Users\\Narek\\Desktop\\MY PROJECT 1 WEBSITE\\Care.html",
+              "RelativeDocumentMoniker": "Care.html",
+              "ToolTip": "C:\\Users\\Narek\\Desktop\\MY PROJECT 1 WEBSITE\\Care.html",
+              "RelativeToolTip": "Care.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-16T05:28:22.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movement.html",
+              "DocumentMoniker": "C:\\Users\\Narek\\Desktop\\MY PROJECT 1 WEBSITE\\Movement.html",
+              "RelativeDocumentMoniker": "Movement.html",
+              "ToolTip": "C:\\Users\\Narek\\Desktop\\MY PROJECT 1 WEBSITE\\Movement.html",
+              "RelativeToolTip": "Movement.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-16T03:41:48.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Wristwatch Types.html",
+              "DocumentMoniker": "C:\\Users\\Narek\\Desktop\\MY PROJECT 1 WEBSITE\\Wristwatch Types.html",
+              "RelativeDocumentMoniker": "Wristwatch Types.html",
+              "ToolTip": "C:\\Users\\Narek\\Desktop\\MY PROJECT 1 WEBSITE\\Wristwatch Types.html",
+              "RelativeToolTip": "Wristwatch Types.html",
+              "ViewState": "AgIAAA0AAACAZWZmZmYUwAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-16T02:47:12.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "History.html",
+              "DocumentMoniker": "C:\\Users\\Narek\\Desktop\\MY PROJECT 1 WEBSITE\\History.html",
+              "RelativeDocumentMoniker": "History.html",
+              "ToolTip": "C:\\Users\\Narek\\Desktop\\MY PROJECT 1 WEBSITE\\History.html",
+              "RelativeToolTip": "History.html",
+              "ViewState": "AgIAAB4AAAAAXmZmZmYUwDIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-16T00:16:59.932Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
